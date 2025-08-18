@@ -1,6 +1,11 @@
+> [!CAUTION]
+> This repository is for viewing only. Do not work on the assignment using this repository -- the actual course assignments will be provided to you via Pawtograder.
+
 # HW5: Biometric Fingerprint Processing
 
 ## Overview
+
+This assignment is based on [this Nifty Assignment](http://nifty.stanford.edu/2024/servin-alonso-garcia-fingerprint/).
 
 Welcome to the Biometric Fingerprint Processing assignment! In this project, you will learn how biometric fingerprint information is stored and used for authentication. You'll implement a fingerprint processing system that can read, store, display, and compare fingerprint data.
 
@@ -156,12 +161,6 @@ To test your implementation:
   - Test lockout when max attempts are exceeded
   - Include TODO comments for asserting access results
 
-
-## Submission Instructions
-
-1. Complete all parts of the assignment
-2. Push your code to the repository
-3. Submit the repository link on Canvas
 
 ## Grading Rubric (Temporary)
 

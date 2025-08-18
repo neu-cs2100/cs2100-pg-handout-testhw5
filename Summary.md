@@ -4,7 +4,12 @@ Answer all the questions. Please put your answers _after_ the italicized instruc
 
 ## Parameter Selection Rationale  
 _Explain how you decided on your values for `max_tries` and `err_thresh`. Why did you choose these particular thresholds? How do they balance security, usability, and fairness?_  
-[10 points]  
+[2 points]  
+_Answer:_
+
+## Stakeholder-value Matrix
+_Please put a stakeholder-value matrix for fingerprint-based login systems. Include at least five stakeholders and at least three values, one of which should be Privacy._
+[8 points]
 _Answer:_
 
 ---
@@ -20,15 +25,6 @@ _For each source, make sure to include how they helped you (or how you helped th
 * _“I discussed the authentication loop design with classmate Alice Smith and clarified how to break out of the while loop.”_  
 * _“I showed Bob Lee my test plan for mocking input and he suggested using `side_effect` in `unittest.mock.patch`.”_  
 * _If you did not talk to anybody about the assignment, please state that._
-
----
-
-### What was your AI usage?  
-_State explicitly (yes or no) whether you used AI. If so, say which tools you used and what your prompts were. Your assignment will not be graded if you do not answer this question._  
-[1 point]
-
-* _“I used ChatGPT to generate the initial TODO skeleton for IncidentResponse.py; prompt: ‘Refactor authentication logic into a separate module with TODOs.’”_  
-* _If you did not use AI, please state that._
 
 ---
 
