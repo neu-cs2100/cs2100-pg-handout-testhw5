@@ -161,20 +161,9 @@ To test your implementation:
   - Test lockout when max attempts are exceeded
   - Include TODO comments for asserting access results
 
-
-## Grading Rubric (Temporary)
-
-Your assignment will be graded based on:
-- Correct implementation of the `FingerPrint` class (30%)
-- Proper file processing and 2D array handling (20%)
-- Accurate fingerprint comparison logic (20%)
-- Working incident response system (15%)
-- Statistical analysis implementation (15%)
-
-## Resources
+## Additional Resources
 
 - Sample fingerprint text files are provided in the repository
 - Python documentation on file handling: [Python File Handling](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 - Python documentation on classes: [Python Classes](https://docs.python.org/3/tutorial/classes.html)
 
-Feel free to ask questions if anything is unclear. Good luck with your assignment!
